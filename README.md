@@ -11,4 +11,4 @@ This Python project is a Morse Code Translator developed using Tkinter, the stan
 - **Clear Input:** Buttons to easily clear the current input fields.
 
 ## Screenshots
-<img src="assets/output.png" width="200" height="200">
+<img src="assets/output.png" width="700" height="700">
